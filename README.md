@@ -8,7 +8,7 @@ Szkript nyelvek – Python, projektfeladat
 
 ## Feladat leírása
 
-Az alkalmazás egy IT-üzemeltetési **Major Incident Board**, vagyis egy kiemelt incidenseket kezelő irányítópult, grafikus felülettel (tkinter).
+Az alkalmazás egy IT-üzemeltetési **Major Incident Board**, egy kiemelt incidenseket kezelő irányítópult, grafikus felülettel (tkinter).
 
 - Új incidens nyitható leírással, érintett szolgáltatással és prioritással (P1–P4).
 - A **Szimulált riasztás** gomb (F5) véletlenszerű monitoring-riasztásból hoz létre incidenst.
